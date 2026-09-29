@@ -2,9 +2,7 @@
 <h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
 <!-- GIF Spider-Man -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l36kU7o58nq3gdaM0/giphy.gif" width="350" alt="Spider-Man Coding GIF">
-</p>
+![Spider-Man Coding](https://media.giphy.com/media/oO3ikswmg1C7L2Esn3/giphy.gif)
 
 - 🔭 Saya sedang mengerjakan **[Proyek kamu]**
 - 🌱 Saya sedang mempelajari **[Teknologi yang kamu pelajari]**
