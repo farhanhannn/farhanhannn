@@ -5,14 +5,14 @@
 
   <br/><br/>
 
-  # 🕷️ Halo, Saya Farhan!
+  #  Halo, Saya Farhan!
   ### 🚀 Software Engineer & Full-Stack Developer
 
   <br/>
 
   ---
 
-  ### 🕸️ Tentang Saya
+  ###  Tentang Saya
   - 🔭 Saat ini sedang mengerjakan **projek keren...**
   - 💬 Tanya saya tentang **JavaScript, Web Development, atau Desain...**
   - ⚡ Fakta unik: *Dengan kekuatan besar, datang juga tanggung jawab besar (dan banyak bug)!*
