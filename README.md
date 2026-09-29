@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Farhan</h1>
+<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
-<!--
-**farhanhannn/farhanhannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GIF Coding / Animasi -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4hvs/giphy.gif" width="350" alt="Coding GIF">
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Saya sedang mengerjakan **[Proyek kamu]**
+- 🌱 Saya sedang mempelajari **[Teknologi yang kamu pelajari]**
+- 💬 Tanya saya tentang **Web Development / Coding**
+- 📫 Kontak saya: **email.kamu@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skill
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanhannn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhannn&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Jumlah Pengunjung Profil -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanhannn&color=blueviolet&style=flat-square&label=Profile+Views" alt="visitor counter"/>
+</p>
