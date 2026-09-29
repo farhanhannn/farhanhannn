@@ -3,13 +3,13 @@
 
 <!-- GIF Coding / Animasi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4hvs/giphy.gif" width="350" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/l36kU7o58nq3gdaM0/giphy.gif" width="350" alt="Spider-Man Coding GIF">
 </p>
 
 - 🔭 Saya sedang mengerjakan **[Proyek kamu]**
 - 🌱 Saya sedang mempelajari **[Teknologi yang kamu pelajari]**
 - 💬 Tanya saya tentang **Web Development / Coding**
-- 📫 Kontak saya: **email.kamu@gmail.com**
+- 📫 Kontak saya: **farhankece93@gmail.com**
 
 ---
 
