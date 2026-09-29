@@ -5,34 +5,39 @@
 
   <br/><br/>
 
-  #  Halo, Saya Farhan!
-  ### 🚀 Software Engineer & Full-Stack Developer
+ ### About Me
+
+  Hi! I'm **Farhan** 👋 I love learning coding, basketball, and making music. 🎸  💻
 
   <br/>
 
-  ---
-
-  ###  Tentang Saya
-  - 🔭 Saat ini sedang mengerjakan **projek keren...**
-  - 💬 Tanya saya tentang **JavaScript, Web Development, atau Desain...**
-  - ⚡ Fakta unik: *Dengan kekuatan besar, datang juga tanggung jawab besar (dan banyak bug)!*
-
-  ---
-
-  ### 📊 Statistik GitHub
+  ### Languages
 
   <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=farhanhannn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhannn&layout=compact&theme=tokyonight&hide=html,css"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  ---
+  <br/>
 
-  ### 📫 Hubungi Saya
+  ### Frameworks & Tools
+
   <p align="center">
-    <a href="https://linkedin.com/in/farhanhannn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/farhanhannn"><img src="[https://www.instagram.com/frhnhanzy?stkn=d3drYWMzdjJ0dGYz](https://www.instagram.com/frhnhanzy?stkn=d3drYWMzdjJ0dGYz)"/></a>
+    <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
+
+  <br/>
+
+
+ ### 📬 Connect With Me
+
+  **GitHub:** [@farhanhannn](https://github.com/farhanhannn) &nbsp; **Instagram:** [@frhnhanzy](https://www.instagram.com/frhnhanzy?stkn=d3drYWMzdjJ0dGYz)
+
+  <br/><br/>
 
 </div>
