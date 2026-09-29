@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
-<!-- GIF Coding / Animasi -->
+<!-- GIF Spider-Man -->
 <p align="center">
   <img src="https://media.giphy.com/media/l36kU7o58nq3gdaM0/giphy.gif" width="350" alt="Spider-Man Coding GIF">
 </p>
@@ -30,7 +30,6 @@
 
 ---
 
-<!-- Jumlah Pengunjung Profil -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farhanhannn&color=blueviolet&style=flat-square&label=Profile+Views" alt="visitor counter"/>
 </p>
