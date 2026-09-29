@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner GIF Spider-Man dari folder img -->
-  <img src="img/spiderman.gif" width="100%" alt="Spider-Man Banner" />
+  <img src="img/spiderman.gif" width="600" alt="Spider-Man Banner" />
 
   <br/><br/>
 
